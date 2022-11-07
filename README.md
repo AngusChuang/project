@@ -1,2 +1,1 @@
-# project
-12345
+# Drawing pictures on complex plane with Fourier series
